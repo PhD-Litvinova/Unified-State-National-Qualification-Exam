@@ -1,6 +1,4 @@
-# 🏥 US National Qualification Exam (ЄДКІ) – Analytical Report, Stage 1
-
-### 📊 Data Analytics Portfolio Project by Iryna Litvinova
+# 🏥 Unified State National Qualification Exam (ЄДКІ) – Analytical Report, Stage 1
 
 ---
 
