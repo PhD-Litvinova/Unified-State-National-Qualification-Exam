@@ -115,8 +115,6 @@ To conduct an analytical assessment of the **“Krok M” exam** results for Nur
 
 # 🏥 ЄДКІ (Єдиний Державний Кваліфікаційний Іспит) – Аналіз Результатів, Етап 1
 
-### 📊 Data Analytics Portfolio Project by Iryna Litvinova
-
 ---
 
 ## 🎯 Мета проєкту
