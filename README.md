@@ -107,7 +107,7 @@ To conduct an analytical assessment of the **“Krok M” exam** results for Nur
 ---
 
 **Author:** Iryna Litvinova
-📍 Ukraine | 🌐 [LinkedIn](https://www.linkedin.com/in/irynalitvinova/) | 🧰 Tools: Python, Excel, Jupyter Notebook
+📍 Ukraine | 🌐 [LinkedIn](https://www.linkedin.com/in/irynalitvinova/) | 🧰 Tools: Excel, Tableau
 
 ---
 
@@ -206,9 +206,8 @@ To conduct an analytical assessment of the **“Krok M” exam** results for Nur
 
 ## 🧰 Інструменти
 
-* Python (pandas, matplotlib, seaborn)
 * Excel / Google Sheets
-* Jupyter Notebook
+* Tableau
 
 ---
 
